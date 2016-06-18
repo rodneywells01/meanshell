@@ -10,6 +10,11 @@
     "angular-material": "^1.1.0-rc.5"
   },
   "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
     "jshint": "^2.9.2",
     "node-sass": "^3.7.0"
   },
